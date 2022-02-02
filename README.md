@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sssgrod
-- 👀 I’m interested in data science, product design, and social justice
-- 🌱 I’m currently learning how to use R and Python
-- 💞️ I’m looking to collaborate on simple small projects, but not right now, i'm already working on one :)
-- 📫 How to reach me: twitter @sexcsel and instagram @gelenasarcia
+- 👋 hi, i’m @sssgrod
+- 👀 interested in black studies, archival work, photography
+- 🌱 currently learning R
+- 💞️ i’m looking to maximize all my resources!
+- 📫 reach me: sgarciarodriguez@smith.edu
 
 <!---
 sssgrod/sssgrod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
